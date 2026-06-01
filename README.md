@@ -1,6 +1,6 @@
 # FIFA World Cup Data Scraper
 
-A robust, dynamic, and high-performance Python-based web scraper that extracts, cleans, and exports historical FIFA World Cup tournament data from Wikipedia using **Playwright** and **Pandas**. Developed as **Task 1** for CodeAlpha.
+A robust, dynamic, and high-performance Python-based web scraper that extracts, cleans, and exports historical FIFA World Cup tournament data from Wikipedia using **Playwright** and **Pandas**. Part of **Task 1** for CodeAlpha.
 
 ![FIFA World Cup Scraper Dashboard](screenshot.png)
 
