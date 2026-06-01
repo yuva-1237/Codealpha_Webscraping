@@ -83,4 +83,4 @@ The scraper exports a CSV file containing the following fields:
 
 ---
 
-*Developed with ❤️ as part of the CodeAlpha Python Developer Internship.*
+*Developed with ❤️ by Yuvathilagan.*
